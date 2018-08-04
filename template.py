@@ -1,6 +1,7 @@
 #import argparse
 #import os
 #import sys
+#import pandas as pd
 import time
 from instabot import Bot
 #from instabot.bot.bot_like import limits
